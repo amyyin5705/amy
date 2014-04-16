@@ -10,5 +10,8 @@ hadoop
 我的日程安排
 -----------
 
-- [] task1
+- [ ] task1
+- [ ] task3
 - [x] task2
+
+
